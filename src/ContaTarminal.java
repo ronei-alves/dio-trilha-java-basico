@@ -1,4 +1,6 @@
-public class Main {
+import java.util.Scanner;
+
+public class ContaTarminal {
     public static void main(String[] args) {
         //TODO: Conhecer e importar a classe Scanner
 
